@@ -7,7 +7,7 @@ public class RangeNumbersPrinter {
                 System.out.println("number is between 1 and 5");
                 break;
             case 6, 7, 8, 9, 10:
-                System.out.println("number is between 1 and 5");
+                System.out.println("number is between 6 and 10");
                 break;
             default:
                 System.out.println("out of range");
